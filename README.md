@@ -50,7 +50,7 @@ Group contacts are the people who are responsible for maintaining the group’s 
 
 In order to be validated, group contacts must be responsive and able to answer and address issues on the group page. We recommend that group contacts are people who feel comfortable communicating in English, and have a good understanding of what is happening inside their group.
 
-Note that group contacts do not have to correspond to governance roles inside the community. Communities are free to create their own internal structures and governance though all leadership roles should follow the Volunteer Leadership Principles.If you have any other questions about group creation or management please visit the FAQ.  
+Note that group contacts do not have to correspond to governance roles inside the community. Communities are free to create their own internal structures and governance though all leadership roles should follow the Volunteer Leadership Principles.If you have any other questions about group creation or management please visit the [FAQ.](https://discourse.mozilla.org/t/frequently-asked-questions-portal-edition-faq/43224)  
 
 Free for personal and commercial use under the CCA 3.0 license.
 
