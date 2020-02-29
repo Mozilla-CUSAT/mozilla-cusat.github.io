@@ -4,17 +4,17 @@
 ## 1. Basic Information
 This is the Mozilla Groups README. It contains all the information required to successfully setup and manage a Mozilla group. Please read it carefully.
 
-Mozilla Community Groups are groups of people who meet regularly and work collaboratively to advance Mozilla’s mission. Anyone who is working to advance Mozilla’s mission can start a Community Group. Groups can meet in-person or virtually and can be organized around a region, contribution area, identity, or interest. All groups must respect and adhere to the Community Participation Guidelines and follow the terms & responsibilities.
+Mozilla Community Groups are groups of people who meet regularly and work collaboratively to advance Mozilla’s mission. Anyone who is working to advance Mozilla’s mission can start a Community Group. Groups can meet in-person or virtually and can be organized around a region, contribution area, identity, or interest. All groups must respect and adhere to the [Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) and follow the terms & responsibilities.
 
 All Mozilla Community Groups must:
 
-    Adhere to and uphold the Community Participation Guidelines.
-    Adhere to and uphold the Volunteer Leadership Principles.
-    Be open and welcoming to everyone who shares Mozilla’s goals and want to contribute in a healthy and constructive manner to participate.
-    Be easy to join and cannot restrict membership.
-    Contribute to Mozilla by regularly participating in campaigns, activities, events or other Mozilla related projects.
-    Be active – demonstrated by having more than five members and hosting at least one event every six months.
-    Have two group contacts that change every year.
+- Adhere to and uphold the [Community Participation Guidelines.](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+- Adhere to and uphold the [Volunteer Leadership Principles.](https://wiki.mozilla.org/Volunteer_leadership_principles)
+- Be open and welcoming to everyone who shares Mozilla’s goals and want to contribute in a healthy and constructive manner to participate.
+- Be easy to join and cannot restrict membership.
+- Contribute to Mozilla by regularly participating in campaigns, activities, events or other Mozilla related projects.
+- Be active – demonstrated by having more than five members and hosting at least one event every six months.
+- Have two group contacts that change every year.
 
 Only groups that meet our requirements and have been reviewed by a community manager will appear as “verified” groups.
 
