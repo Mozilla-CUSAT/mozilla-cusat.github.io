@@ -1,6 +1,8 @@
 # mozillacusat
 ![CI](https://github.com/Mozilla-CUSAT/mozilla-cusat.github.io/workflows/CI/badge.svg)
 
+[Mozilla CUSAT Group](https://community.mozilla.org/groups/mozilla-cusat/)
+
 ## 1. Basic Information
 This is the Mozilla Groups README. It contains all the information required to successfully setup and manage a Mozilla group. Please read it carefully.
 
